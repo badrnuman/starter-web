@@ -5,7 +5,7 @@
 
 	Badr Noman
 	badrn@outlook.com
-	DevOps Engineer
+	DevOps Engineer, testing
 
     <name> -- <role> -- <twitter>
 
@@ -17,3 +17,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
