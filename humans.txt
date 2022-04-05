@@ -3,6 +3,10 @@
 
 # TEAM
 
+	Badr Noman
+	badrn@outlook.com
+	DevOps Engineer
+
     <name> -- <role> -- <twitter>
 
 # THANKS
